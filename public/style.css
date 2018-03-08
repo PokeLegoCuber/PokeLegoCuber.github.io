@@ -1,5 +1,5 @@
 body {
-  background-color: #162f51;
+  background-color: #DD394F;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -46,7 +46,7 @@ li {
 
 a {
   text-decoration: none;
-  color: DodgerBlue;
+  color: #ffffff;;
   font-size: 20px;
 }
 
@@ -55,13 +55,13 @@ a:visited {
 }
 
 h1 {
-  color: #ecc700;
+  color: #1C3F64;
   padding: 1vh;
   font-size: 4vh;
 }
 
 h2 {
-  color: black;
+  color: #1C3F64;
   font-size: 30px;
   padding: 5px;
 }
@@ -110,6 +110,7 @@ main p {
   width: 95vw;
   padding: 5px;
   margin: 0 auto;
+
 }
 
 #about .row {
@@ -162,6 +163,7 @@ main p {
 
 #projects h3 {
   font-size: 32px;
+  color: #1C3F64;
 }
 
 #projects .row {
@@ -182,7 +184,7 @@ main p {
 #projects a {
   font-size: 24px;
   padding: 20px;
-  color: black;
+  color: #1C3F64;
   display: block;
   text-decoration: underline;
 }
