@@ -181,14 +181,6 @@ main p {
   height: auto;
 }
 
-#projects a {
-  font-size: 24px;
-  padding: 20px;
-  color: #1C3F64;
-  display: block;
-  text-decoration: underline;
-}
-
 footer {
   height: 45vh;
   padding: 10px;
@@ -213,6 +205,22 @@ footer p {
 footer .fa {
   padding: 20px 30px;
   color: white;
+}
+
+#button {
+    background-color: #1C3F64;
+    border-radius: 4px;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 13px 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#button:hover {
+  background-color: #102944;
+  color: #FFFFFF;
 }
 
 /*Media Queries*/
