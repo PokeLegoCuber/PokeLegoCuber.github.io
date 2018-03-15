@@ -10,26 +10,17 @@ header {
   padding: 2vh;
 }
 
-/*.logo {
-  text-align: left;
-  width: 50vw;
-}
-*/
 nav {
   width: 80vw;
   padding: 2vh;
 }
-/*
-#logo {
-  padding: 2vh;
-  width: 50%;
-}
-*/
+
 #logo
 {
   height: 20vh;
   width: 15vw;
 }
+
 ul {
   height: 100%;
   display: flex;
@@ -211,7 +202,6 @@ footer .fa {
     background-color: #1C3F64;
     border-radius: 4px;
     display: inline-block;
-    cursor: pointer;
     color: #FFFFFF;
     padding: 13px 15px;
     text-align: center;
