@@ -101,7 +101,6 @@ main p {
   width: 95vw;
   padding: 5px;
   margin: 0 auto;
-
 }
 
 #about .row {
@@ -146,7 +145,6 @@ main p {
 #projects {
   background-color: white;
   height: 75vh;
-  
   padding: 5px;
   display: flex;
   flex-direction: column;
@@ -172,6 +170,56 @@ main p {
   width: 70%;
   height: auto;
 }
+
+/*#skills {
+  background-color: white;
+  height: 75vh;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#skills h3 {
+  font-size: 32px;
+  color: #1C3F64;
+}
+
+#skills .row {
+  display: flex;
+  justify-content: space-around;
+}
+
+#skills .col {
+  width: 30vw;
+}
+
+#skills .top
+{
+  height: 15vh;
+}
+
+#skills .bottom
+{
+  height: 60vh;
+}
+
+#skills p
+{
+  color: #ffFFff;
+  font-size: 20px;
+  padding: 20px;
+}
+
+#skills ul {
+  height: 100%;
+  display: flex;
+}
+
+#skills li {
+  width: 100px;
+  padding: 10px;
+}*/
 
 footer {
   height: 45vh;
