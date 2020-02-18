@@ -1,8 +1,8 @@
 # PokeLegoCuber.github.io
 
-My portfolio website
+My Portfolio Website
 
 https://pokelegocuber.github.io/
 
-### This website was built and based on this repository:
+### This website was originally built and based on this repository:
 ### https://github.com/MLH/mlh-localhost-build-first-website
